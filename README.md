@@ -6,7 +6,7 @@ Natthanat Chuayriang
   <img src="https://i.giphy.com/XGsHjfmwF3VMCuNQA4.webp" alt="GIF" width="300px"/>
 </p>
 
-a Full Stack Developer base in Bangkok with my background a Bachelor's degree in Industrial Design of Architechture, King Mongkut's Institute of Technology Ladkrabang. My background in usability and design helps me understand functional, user-friendly solutions. I am passion about building intuitive websites and and exploring new technologies to enhance my skills.
+A Full Stack Developer base in Bangkok with my background a Bachelor's degree in Industrial Design of Architechture, King Mongkut's Institute of Technology Ladkrabang. My background in usability and design helps me understand functional, user-friendly solutions. I am passion about building intuitive websites and and exploring new technologies to enhance my skills.
 
 
 
