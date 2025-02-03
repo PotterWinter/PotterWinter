@@ -31,7 +31,7 @@ Let's connect and build something awesome together! 🚀
     </a>
   </p>
 
-**🥷 OTHER**
+**🧑‍🏫 OTHER**
   <p align="left">
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=apple,vscode,git,github,figma,vercel" alt="My Other Skills"/>
