@@ -24,7 +24,6 @@ Let's connect and build something awesome together! 🚀
   
 **🥷 BACK-END**
 
-  <summary>Click to see my back-end skills</summary>
   <p align="left">
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=nodejs,expressjs,nextjs,supabase,postgres,mongodb,postman" alt="My Back-End Skills"/>
